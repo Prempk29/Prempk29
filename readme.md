@@ -1,4 +1,3 @@
-[![MasterHead](https://www.techuz.com/blog/wp-content/uploads/2018/08/How-to-hire-web-developers-from-India.gif)](https://Prempk29.io)
 
 <h1 align="center">Hi 👋, I'm Prem Kumar Naidu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
