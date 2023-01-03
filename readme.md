@@ -31,5 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prempk29&show_icons=true&locale=en&layout=compact" alt="prempk29" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prempk29&show_icons=true&locale=en" alt="prempk29" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prempk29&theme=gotham&show_icons=true&locale=en&layout=compact" alt="prempk29" /></p>
-<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=prempk29&custom_title=Contribution%20Graph&theme=gotham&locale=en" alt="prempk29" /></p>
+
+
