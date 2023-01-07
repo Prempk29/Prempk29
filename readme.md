@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **prempk.7172@gmail.com**
 
-- ⚡ Fun fact **Missing semicolons(;) vro!!!**
+- ⚡ Fun fact **Missing semicolons(;) bro!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
