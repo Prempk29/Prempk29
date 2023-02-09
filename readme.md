@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://prempk29.github.io/](https://prempk29.github.io/)
 
-- 💬 Ask me about **html,css,js**
+- 💬 Ask me about **html,css,js,Bootstrap**
 
 - 📫 How to reach me **prempk.7172@gmail.com**
 
