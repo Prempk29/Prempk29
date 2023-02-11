@@ -1,10 +1,12 @@
   
 <h1 align="center" >Hello I'm Prem._.pk</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India!</h3>
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prempk29" alt="prempk29" /></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prempk29&label=Profile%20views&color=0e75b6&style=flat" alt="prempk29" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prempk29" alt="prempk29" /></a></p>
+
 
 - 🔭 I’m currently working on `Event Management System`
 
