@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on `Event Management System`
 
-- 🌱 I’m currently learning `MERN`
+- 🌱 I’m currently learning `MERN STACK`
 
 - 👯 I’m looking to collaborate on `open source project`
 
