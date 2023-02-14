@@ -19,13 +19,14 @@
 - 📫 How to reach me **prempk.7172@gmail.com**
 
 - ⚡ Fun fact **Missing semicolons(;) bro!!!**
+<p>
 ```
 while(!dead)
 {
    code()
    eat()
    love()
-}```
+}```</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/prem._.pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prem._.pk" height="30" width="40" /></a>
