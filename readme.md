@@ -22,7 +22,7 @@
 ```
 me= Person()
 while(me.awake()):
-   me.code(Where mood=="good")
+   me.code()
 ```   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
