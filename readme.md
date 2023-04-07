@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prempk29" alt="prempk29" /></a></p>
 
-- 🔭 I’m currently working on `Keeper Project`
+- 🔭 I’m currently working on `Agritech projects`
 
 - 🌱 I’m currently learning `REACT`
 
