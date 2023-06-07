@@ -26,12 +26,17 @@ while(me.alive):
    me.repeat()
 ```   
 
+<h3 align="left">Languages</h3>
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+
 <h3 align="left">Languages and Tools:</h3>
-
-
-
-
-
 <br>
 <table>
 <tbody>
