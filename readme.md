@@ -1,6 +1,6 @@
   
-<h1 align="center" >Hello I'm Prem Kumar Naidu</h1>
-<h3 align="center">A Passionate Full Stack Developer and Competitive Programmer</h3>
+<h1 align="center" >Hello I'm Prempk</h1>
+<h3 align="center">A Passionate MERN Stack Developer and Python Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prempk29&label=Profile%20views&color=0e75b6&style=flat" alt="prempk29" /> </p>
 
@@ -105,8 +105,6 @@ while(me.awake()):
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=prempk29&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prempk29&theme=radical&title_color=8E2DE2&text_color=fff)
+<a href="https://prempk29.github.io/Portfolio/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Prempk29&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prempk29&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 
