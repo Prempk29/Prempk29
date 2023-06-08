@@ -1,4 +1,5 @@
 [![Alt Text](https://github.com/Prempk29/Prempk29/blob/main/profile1.gif)](https://prempk29.github.io/Portfolio/)
+[![](https://raw.githubusercontent.com/Prempk29/Prempk29/blobmain/profile1.gif)](https://prempk29.github.io/Portfolio/)
 <h1 align="center" >Hello I'm Tadi Prem Kumar Naidu</h1>
 <h3 align="center">A Passionate MERN Stack Developer and Python Programmer</h3>
 
