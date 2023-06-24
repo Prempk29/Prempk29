@@ -1,4 +1,3 @@
-[![](https://raw.githubusercontent.com/Prempk29/Prempk29/blob/main/profile1.gif)](https://prempk29.github.io/)
 <h1 align="center" >Hello I'm Tadi Prem Kumar Naidu</h1>
 <h3 align="center">A Passionate MERN Stack Developer and Python Programmer</h3>
 <img align="right" alt="GIF" width="200"src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47j8t5ver1y95v6dmyjnbji3pov6da193y0o4pmwii&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
