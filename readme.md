@@ -1,7 +1,6 @@
 [![](https://raw.githubusercontent.com/Prempk29/Prempk29/main/profile.gif)](https://prempk29.github.io/Portfolio/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prempk29&label=Profile%20views&color=0e75b6&style=flat" alt="prempk29" /> </p>
-<img align="right" alt="GIF" width="200"src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47j8t5ver1y95v6dmyjnbji3pov6da193y0o4pmwii&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prempk29" alt="prempk29" /></a></p>
 - 🔭 I’m currently working on `Agritech project`
 
