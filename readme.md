@@ -12,7 +12,7 @@
 
 - 📫 How to reach me *prempk.7172@gmail.com*
 
-
+```
 me= Person()
 while(me.alive):
    me.eat()
@@ -20,6 +20,7 @@ while(me.alive):
    me.development()
    me.code()
    me.repeat()
+```
    
 
 <h3 align="left">Languages</h3>
