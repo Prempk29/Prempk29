@@ -14,7 +14,7 @@
 
 ```
 me= Person()
-while(me.alive):
+while(me.alive()):
    me.eat()
    me.sleep()
    me.development()
