@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on `Agriculture project`
 
-- 🌱 I’m currently learning `node`
+- 🌱 I’m currently learning `MERN`
 
 - 👨‍💻 All of my projects are available at [https://prempk29.github.io/](https://prempk29.github.io/)
 
