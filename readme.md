@@ -14,9 +14,9 @@
 me= Person()
 while(me.alive()):
    me.eat()
-   me.sleep()
    me.development()
    me.code()
+   me.sleep()
    me.repeat()
 ```
    
