@@ -1,6 +1,6 @@
 [![](https://raw.githubusercontent.com/Prempk29/Prempk29/main/profile.gif)](https://prempk29.github.io/Portfolio/)
 
-- 🔭 I’m currently working on `Agriculture projects`
+- 🔭 I’m currently working on `Code Chat`
 
 - 🌱 I’m currently learning `MERN`
 
