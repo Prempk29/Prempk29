@@ -65,7 +65,6 @@ while(me.alive()):
 <img height=65px src="https://img.icons8.com/color/2x/bootstrap.png"> 
 </td>
 </tr>
-
 <tr>
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
