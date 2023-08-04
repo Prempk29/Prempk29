@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://prempk29.github.io/](https://prempk29.github.io/)
 
-- 💬 Ask me about *MERN,Python,html,css*
+- 💬 Ask me about *MERN,Python*
 
 - 📫 How to reach me *prempk.7172@gmail.com*
 
