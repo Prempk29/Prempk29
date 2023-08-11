@@ -11,7 +11,7 @@
 - 📫 How to reach me *prempk.7172@gmail.com*
 
 ```
-me= Person()
+me = Person()
 while(me.alive()):
    me.eat()
    me.code()
